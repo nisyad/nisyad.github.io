@@ -10,7 +10,6 @@ description: Machine Learning, Complex Networks, Earth Science
 
 My research is focused on using machine learning to solve problems in environmental and climate science. I am currently interested in developing deep transfer learning methods for extracting information from remotely-sensed data. At other times, I also think about making general AI more interpretable and theory-guided.
 
-
 # Bio
 
 Nishant is a PhD student enrolled in the Interdisciplinary Engineering program at Northeastern University, Boston, MA.
@@ -35,7 +34,7 @@ Thomas is a research scientist at the [NASA Ames Research Center](https://www.na
 
 # Selected Publications
 
-**Vandal, T.** & Nemani, R. (2020). “Optical Flow for Intermediate Frame Interpolation of Multispectral Geostationary Satellite Data”. In Proceedings of 1st ACM SIGKDD Workshop on Deep Learning for Spatiotemporal Data, Applications, and Systems (DeepSpatial ’20). [paper](http://mason.gmu.edu/~lzhao9/venues/DeepSpatial2020/papers/DeepSpatial_paper_6_camera_ready.pdf)
+**Yadav, N.**, Chatterjee, S., & Ganguly, A. R. (2020). Resilience of Urban transport network-of-networks under intense flood Hazards exacerbated by targeted Attacks. Scientific reports, 10(1), 1-14. [paper](https://www.nature.com/articles/s41598-020-66049-y)
 
 Gao, N., Wilson, M., **Vandal, T.**, Vinci, W., Nemani, R., & Rieffel, E. "High-Dimensional Similarity Search with Quantum-Assisted Variational Autoencoder," Proceedings of the 26th ACM **SIGKDD** Conference on Knowledge Discovery and Data Mining (Research Track, 16% acceptance rate). [Link coming]
 
