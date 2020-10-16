@@ -1,14 +1,14 @@
 ---
 layout: homepage
 title: Nishant Yadav
-role: Research Scientist
-affiliation: NASA Ames Research Center <br>Bay Area Environmental Research Institute <br> Moffett Field, CA 94035
-contact: nishant@northeastern.edu <br> thomas.vandal@nasa.gov <br> 
-description: Machine Learning, Data Science, and Earth Sciences
+role: PhD Student | Interdisciplinary Engineering
+affiliation: Sustainability and Data Sciences Lab <br>Bay Northeastern University <br> Boston, MA, 02115
+contact: nishant@northeastern.edu 
+description: Machine Learning, Complex Networks, Earth Science
 
 ---
 
-My research is at the intersection of machine learning, computer vision, earth sciences, and high-performance computing. I am interested in efficient unsupervised and supervised learning methods for leveraging ever growing datastores of spatio-temporal earth science observations, forecasts, and projections to understand our environment. Recent projects have included developments of novel deep learning methods for spatio-temporal downscaling, physical model emulation, generating virtual sensors, and cloud tracking. 
+My research is at the intersection of machine learning, computer vision, earth sciences, and high-performance computing. I am interested in efficient unsupervised and supervised learning methods for leveraging ever growing datastores of spatio-temporal earth science observations, forecasts, and projections to understand our environment. Recent projects have included developments of novel deep learning methods for spatio-temporal downscaling, physical model emulation, generating virtual sensors, and cloud tracking.
 
 # Bio
 
