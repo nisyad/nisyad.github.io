@@ -2,13 +2,14 @@
 layout: homepage
 title: In Progress...
 role: PhD Student | Interdisciplinary Engineering
-affiliation: Sustainability and Data Sciences Lab <br>Bay Northeastern University <br> Boston, MA, 02115
-contact: nishant@northeastern.edu 
+affiliation: Sustainability and Data Sciences Lab <br> Northeastern University <br> Boston, MA, US
+contact: nishant@northeastern.edu
 description: Machine Learning, Complex Networks, Earth Science
 
 ---
 
-My research is at the intersection of machine learning, computer vision, earth sciences, and high-performance computing. I am interested in efficient unsupervised and supervised learning methods for leveraging ever growing datastores of spatio-temporal earth science observations, forecasts, and projections to understand our environment. Recent projects have included developments of novel deep learning methods for spatio-temporal downscaling, physical model emulation, generating virtual sensors, and cloud tracking.
+My research is focused on using machine learning for solving problems in environmental and climate science. I am currently interested in developing deep transfer learning methods for extracting information from remotely-sensed data. At other times, I also think about making general AI more interpretable and theory-guided. 
+
 
 # Bio
 
