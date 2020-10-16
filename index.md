@@ -12,7 +12,7 @@ description: Machine Learning, Complex Networks, Earth Science
 My research is focused on using machine learning to solve problems in environmental and climate science. I am currently interested in developing deep transfer learning methods for extracting information from remotely-sensed data. At other times, I also think about making general AI more interpretable and theory-guided.
 
 this is one line
-##
+
 
 this is another line
 
@@ -37,16 +37,8 @@ Thomas is a research scientist at the [NASA Ames Research Center](https://www.na
 <p>(August 2017) DeepSD won runner-up best paper and runner-up best student paper in the [applied data science track at KDD](https://www.kdd.org/kdd2017/accepted-papers),[NEU](https://knuth.coe.neu.edu/news/phd-student-ganguly-receive-runner-up-best-paper-awards/).</p>
 <p>(August 2017) Paper accepted at KDD 2017 on [DeepSD: Generating High Resolution Climate Change Projections through Single Image Super-Resolution](https://www.kdd.org/kdd2017/papers/view/deepsd-generating-high-resolution-climate-change-projections-through-single). </p>
 
-# Selected Publications
+## Awards and Honors
 
-**Yadav, N.**, Chatterjee, S., & Ganguly, A. R. (2020). Resilience of Urban transport network-of-networks under intense flood Hazards exacerbated by targeted Attacks. Scientific reports, 10(1), 1-14. [paper](https://www.nature.com/articles/s41598-020-66049-y)
-
-Gao, N., Wilson, M., **Vandal, T.**, Vinci, W., Nemani, R., & Rieffel, E. "High-Dimensional Similarity Search with Quantum-Assisted Variational Autoencoder," Proceedings of the 26th ACM **SIGKDD** Conference on Knowledge Discovery and Data Mining (Research Track, 16% acceptance rate). [Link coming]
-
-**Vandal, T.**, Kodra, E., Ganguly, S., Dy, J., Nemani, R., & Ganguly, A (2018): “Quantifying Uncertainty in Discrete-Continuous and Skewed Data with Bayesian Deep Learning,” Proceedings of the 24rd ACM **SIGKDD** Conference on Knowledge Discovery and Data Mining, 1663-1672. (Research Track, 18% acceptance rate)[Paper](https://www.kdd.org/kdd2018/accepted-papers/view/quantifying-uncertainty-in-discrete-continuous-and-skewed-data-with-bayesia), [Code](https://github.com/tjvandal/discrete-continuous-bdl).
-
-**Vandal, T.**, Kodra, E., Ganguly, S., Michaelis, A., Nemani, R., & Ganguly, A. (2017). “DeepSD: Generating high resolution climate change projections through single image super-Resolution,” KDD 2017, Proceedings of the 23rd ACM **SIGKDD** Conference on Knowledge Discovery and Data Mining, 1663-1672. (Runner-Up BEST PAPER Award and Runner-up BEST STUDENT PAPER Award in Applied Data Science Track, 9% oral acceptance rate). [Paper](https://www.kdd.org/kdd2017/papers/view/deepsd-generating-high-resolution-climate-change-projections-through-single) [[code]](https://github.com/tjvandal/deepsd).
-
-**Vandal, T.**, E. Kodra, and A. Ganguly, "Intercomparison of Machine Learning Methods for Statistical Downscaling: The Case of Daily and Extreme Precipitation." *Theoretical and Applied Climatology*. September 2018. [Paper](https://link.springer.com/article/10.1007/s00704-018-2613-3).
-
-**Vandal, T.**, “Statistical Downscaling of Global Climate Models with Image Super-resolution and Uncertainty Quantification”, 2018. Northeastern University. [Dissertation](./papers/vandal_dissertation_2018.pdf).
+Award 1
+Award 2
+Award 3
