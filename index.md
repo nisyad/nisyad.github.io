@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: In Progress 
+title: In Progress
 role: **PhD Student** | Interdisciplinary Engineering
 affiliation: Sustainability and Data Sciences Lab <br> Northeastern University <br> Boston, MA, US
 contact: nishant@northeastern.edu
