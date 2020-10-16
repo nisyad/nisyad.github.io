@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Projects 
-description: 
+title: Projects
+description:
 ---
 
 # Optical Flow for Intermediate Frame Interpolation of Multispectral Geostationary Satellite Data
 
- 
+
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/NeMXPQw3CJU?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;" allowfullscreen></iframe></center>
 
 **Authors:** Thomas Vandal & Rama Nemani <br>
@@ -15,7 +15,7 @@ description:
 
 <hr>
 
-# Quantifying Uncertainty in Discrete-Continuous and Skewed Data with Bayesian Deep Learning 
+# Quantifying Uncertainty in Discrete-Continuous and Skewed Data with Bayesian Deep Learning
 
 ![alt text](assets/images/kdd2018-uq-intervals.png "Logo Title Text 1")
 
