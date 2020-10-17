@@ -1,9 +1,9 @@
 ---
 layout: homepage
-title: Nishant Yadav <br> <br>
+title: Nishant Yadav
 role: PhD Student | Interdisciplinary Engineering
 affiliation: Sustainability & Data Sciences Lab <br> Northeastern University <br> Boston, MA
-contact: nishant@northeastern.edu <br>
+contact: nishant@northeastern.edu <br> nishant.um@gmail.com <br>
 description: Machine Learning, Complex Networks, Environmental Science
 
 ---
