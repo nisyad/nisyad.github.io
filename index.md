@@ -1,18 +1,20 @@
 ---
 layout: homepage
-title: Thomas J. Vandal, Ph.D.
-role: Research Scientist
-affiliation: NASA Ames Research Center <br>Bay Area Environmental Research Institute <br> Moffett Field, CA 94035
-contact: vandal@baeri.org <br> thomas.vandal@nasa.gov <br> 
-description: Machine Learning, Data Science, and Earth Sciences
+title: Nishant Yadav
+role: PhD Student
+affiliation: Sustainability & Data Sciences Lab <br> Northeastern University <br> Boston, MA
+contact: nishant@northeastern.edu
+description: Machine Learning, Complex Networks, Environmental Science
 
 ---
 
-My research is at the intersection of machine learning, computer vision, earth sciences, and high-performance computing. I am interested in efficient unsupervised and supervised learning methods for leveraging ever growing datastores of spatio-temporal earth science observations, forecasts, and projections to understand our environment. Recent projects have included developments of novel deep learning methods for spatio-temporal downscaling, physical model emulation, generating virtual sensors, and cloud tracking. 
+My research is focused on using machine learning to solve problems in environmental and climate science. I am currently interested in developing deep transfer learning methods for extracting information from remotely-sensed data. At other times, I also think about making general AI more interpretable, data efficient and theory-guided.
+
 
 # Bio
 
-Thomas is a research scientist at the [NASA Ames Research Center](https://www.nasa.gov/ames/) and [Bay Area Environmental Research Institute](https://baeri.org/) within the [NASA Earth Exchange (NEX)](https://www.nasa.gov/nex) in Mountain View, CA. In August 2018 Thomas earned a Ph.D. in Interdisciplinary Engineering from Northeastern University working in the [Sustainability and Data Sciences Lab](https://web.northeastern.edu/sds/) advised by [Auroop R. Ganguly](https://coe.northeastern.edu/people/ganguly-auroop/). During graduate school his research won [runner-up best paper and runner-up best student paper awards at SIGKDD 2017](https://www.kdd.org/awards/view/2017-sigkdd-best-paper-award-winners), outstanding graduate researcher at Northeastern University in 2018, and served as an elected student member of the committee on [Artificial Intelligence Applications to Environmental Science for the American Meterological Society (AMS)](https://www.ametsoc.org/index.cfm/stac/committees/committee-on-artificial-intelligence-applications-to-environmental-science/membership/). Prior to graduate school he worked at multiple startups in the Boston area, including the MIT Media Lab spin-out Affectiva.  He completed his bachelors in mathematics at the University of Maryland College Park in 2012.
+Nishant is a PhD student in the Interdisciplinary Engineering program at Northeastern University, Boston, MA, advised by [Auroop R. Ganguly](https://coe.northeastern.edu/people/ganguly-auroop/). Before starting his PhD, he worked in the industry where he evaluated the health of critical infrastructure systems. He completed his master's degree in intelligent systems from the University of Michigan Ann Arbor in 2014 and a bachelor's in civil and environmental engineering from the Indian Institute of Technology (IIT) Guwahati in 2012.  
+
 
 # Recent Work
 
