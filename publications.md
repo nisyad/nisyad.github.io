@@ -10,7 +10,7 @@ featured-img: assets/images/earth-wide.jpg
 **Yadav, N.**, Chatterjee, S., & Ganguly, A. R. (2020). Resilience of Urban transport network-of-networks under intense flood Hazards exacerbated by targeted Attacks. Scientific reports, 10(1), 1-14. [Link](https://www.nature.com/articles/s41598-020-66049-y)
 
 
-## Peer-Reviewed Conferences
+## Peer-Reviewed Conferences and Workshops
 
 **Yadav, N.**, Ravela, S., & Ganguly, A. R. (2020). Gaussian Processes for Uncertainty Quantification and Estimation in Nonlinear Dynamical Systems. (Under review at AAAI 2021).
 
