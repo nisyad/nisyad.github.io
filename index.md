@@ -8,6 +8,8 @@ description: Machine Learning, Complex Networks, Environmental Science
 
 ---
 
+## Research
+
 My research focuses on using machine learning to solve problems in environmental and climate science. I am currently interested in developing deep transfer learning methods for extracting information from remotely-sensed data. At other times, I also think about making general AI more interpretable, data efficient and theory-guided.
 
 
