@@ -21,5 +21,5 @@ Nishant is a PhD student in the Interdisciplinary Engineering program at Northea
 
 ## Recent News
 
-<p>(October 2020) Gaussian Processes for Uncertainty Quantification and Estimation in Nonlinear Dynamical Systems. *(submitted to AAAI 2021)*</p>
-<p>(August 2020) Best Student Paper Award at the Data Science for a Sustainable Planet Workshop, 26th SIGKDD Conference, San Diego, CA.</p>
+<p>[October 2020] Gaussian Processes for Uncertainty Quantification and Estimation in Nonlinear Dynamical Systems. *(submitted to AAAI 2021)*</p>
+<p>[August 2020] **Best Student Paper Award** at the Data Science for a Sustainable Planet Workshop, 26th SIGKDD Conference, San Diego, CA.</p>
