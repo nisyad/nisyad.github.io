@@ -20,5 +20,6 @@ Nishant is a PhD student in the Interdisciplinary Engineering program at Northea
 
 ## Recent News
 
+<p>[November 2020] Started as Deep Learning Research Intern at NASA Ames *(submitted to AAAI 2021)*</p>
 <p>[October 2020] Gaussian Processes for Uncertainty Quantification and Estimation in Nonlinear Dynamical Systems. *(submitted to AAAI 2021)*</p>
 <p>[August 2020] **Best Student Paper Award** at the Data Science for a Sustainable Planet Workshop, 26th SIGKDD Conference, San Diego, CA.</p>
