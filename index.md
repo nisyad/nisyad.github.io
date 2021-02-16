@@ -21,5 +21,5 @@ Nishant is a PhD student in the Interdisciplinary Engineering program at Northea
 ## Recent News
 
 <p>[November 2020] Started as Deep Learning Research Intern at NASA Ames, CA.</p>
-<p>[September 2020] Work on multilayer network resilience under compound stresses mentioned in *Department of Energy* (https://eurekalert.org/features/doe/2020-09/dnnl-nri092220.php) news.</p>
+<p>[September 2020] Work on multilayer network resilience under compound stresses mentioned in [*Department of Energy*] (https://eurekalert.org/features/doe/2020-09/dnnl-nri092220.php) news.</p>
 <p>[August 2020] **Best Student Paper Award** at the Data Science for a Sustainable Planet Workshop, 26th SIGKDD Conference, San Diego, CA.</p>
