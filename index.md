@@ -8,9 +8,9 @@ description: Machine Learning, Complex Networks, Environmental Science
 
 ---
 
-## Research
+## Bio
 
-My research focuses on using machine learning to solve problems in environmental and climate science. I am currently interested in developing unsupervised deep transfer learning methods for extracting information from remotely-sensed data (e.g., satellite images). At other times, I also think about making AI more interpretable, data efficient and theory-guided.
+Nishant Yadav is a PhD candidate in the Interdisciplinary Engineering program at Northeastern University, Boston, MA. His research focuses on using machine learning to solve problems in environmental and climate science. He is particularly interested in developing (deep) transfer learning methods for extracting information from remotely-sensed data (e.g., satellite images). Recently his research is focused on unsupervised domain adaptation using adversarial learning techniques. Conversations on making AI more interpretable, data-efficient and theory-guided keep him excited. 
 
 <!--
 ## Bio
@@ -20,6 +20,6 @@ Nishant is a PhD student in the Interdisciplinary Engineering program at Northea
 
 ## Recent News
 
-<p>[November 2020] Started as Deep Learning Research Intern at NASA Ames *(submitted to AAAI 2021)*</p>
+<p>[November 2020] Started as Deep Learning Research Intern at NASA Ames</p>
 <p>[October 2020] Gaussian Processes for Uncertainty Quantification and Estimation in Nonlinear Dynamical Systems. *(submitted to AAAI 2021)*</p>
 <p>[August 2020] **Best Student Paper Award** at the Data Science for a Sustainable Planet Workshop, 26th SIGKDD Conference, San Diego, CA.</p>
