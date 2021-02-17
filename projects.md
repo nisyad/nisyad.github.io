@@ -6,16 +6,19 @@ description:
 
 # Gaussian Processes for Uncertainty Quantification and Estimation in Nonlinear Dynamical Systems
 
-<img src="assets/images/hybrid-model-uq.png" width="50%" />
+<center><img src="assets/images/hybrid-model-uq.png" width="50%" />
 
-**Authors:** Nishant Yadav and Auroop R. Ganguly
+**Authors:** Nishant Yadav, Sai Ravela and Auroop R. Ganguly <br>
 **Abstract:** Hybrid intelligent systems coupling knowledge-based reasoning with data-driven learning are becoming crucial to prediction and discovery in diverse scientific domains - medical diagnosis, decoding protein structures, fluid dynamics, and climate risk assessment, to name a few. Many of these applications are safety-critical, demanding risk-informed decision making. Thus, incorporating uncertainty within these hybrid knowledge-data (KD) systems is critical. Typical Machine Learning methods, however, are uninformative of uncertainty or do so at tremendous cost. In applications such as quantifying risk from climate where knowledge systems are imperfect high dimensional nonlinear models, this is a critical issue. Here using a nontrivial and nonlinear dynamical (NLD) model preferred by climate scientists for inverse problems in climate modeling, we show how Bayesian nonparametric methods, in particular Gaussian Processes (GPs), allow uncertainty quantification and interval estimation in a principled and tractable manner. Further, in many cases, GPs outperform a suite of benchmark point estimation methods as well. Results suggest that this approach to probabilistic learning in hybrid KD models is promising. While the illustrative example is from climate science, the results and insights are generalizable to other NLDs ubiquitous in robotics, biology and economics, among others
 
 
+#A Deep Learning Approach to Short-term Quantitative Precipitation Forecasting
+
+<center><img src="assets/images/precip-forecast.png" width="60%" />
 
 
-
-
+**Authors:** Nishant Yadav and Auroop R. Ganguly <br>
+**Abstract** Short-term, spatially distributed quantitative precipitation forecasting (SD-QPF), or ‘precipitation nowcasting’, is important for hydrological and water resources applications, such as flash flood warning systems and operations of dams and reservoirs. The state-of-the-art methods in SD-QPF include radar extrapolations, numerical weather prediction (NWP) models, and hybrid methods that combine the two. Despite the diversity of methods that have been used, SD-QPF remains difficult: even sophisticated methods may not be able to consistently outperform relatively simple baselines such as Persistence. Methods in Deep Learning (DL) have demonstrated significant and often unexpected improvements across a wide variety of domains ranging from image and video processing to machine translation and speech recognition. Emerging research has suggested that that DL may improve point predictions in the context of very short-term - 0-2 hours - distributed QPF (VSD-QPF) by taking advantage of growing data from in-situ weather sensors as well as remote sensors such as radar and satellites, along with advances in computing. Here we examine the hypothesis that DL can improve VSD-QPF, specifically point predictions, based on observed hourly precipitation data over the contiguous United States, by leveraging a Convolutional Long Short-Term Memory (LSTM) recurrent neural network for 1-hour precipitation nowcasting. We find the DL approach performs better than the baseline method of Persistence and a state-of-the-art method using Optical Flow.
 
 <!--
 # Optical Flow for Intermediate Frame Interpolation of Multispectral Geostationary Satellite Data
