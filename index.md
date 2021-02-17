@@ -2,7 +2,7 @@
 layout: homepage
 title: Nishant Yadav
 role: PhD Candidate | Interdisciplinary Engineering
-affiliation: Northeastern University, Boston, MA
+affiliation: Northeastern University, Boston
 contact: nishant@northeastern.edu <br> nishant.um@gmail.com <br>
 description: Machine Learning, Complex Networks, Environmental Science
 
