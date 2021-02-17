@@ -6,7 +6,7 @@ description:
 
 # Gaussian Processes for Uncertainty Quantification and Estimation in Nonlinear Dynamical Systems
 
-![Hybrid ML-Physics Climate Model](assets/images/hybrid-model-uq.png){:width="50%"}
+<img src="assets/images/hybrid-model-uq.png" width="50%" />
 
 **Authors:** Nishant Yadav and Auroop R. Ganguly
 **Abstract:** Hybrid intelligent systems coupling knowledge-based reasoning with data-driven learning are becoming crucial to prediction and discovery in diverse scientific domains - medical diagnosis, decoding protein structures, fluid dynamics, and climate risk assessment, to name a few. Many of these applications are safety-critical, demanding risk-informed decision making. Thus, incorporating uncertainty within these hybrid knowledge-data (KD) systems is critical. Typical Machine Learning methods, however, are uninformative of uncertainty or do so at tremendous cost. In applications such as quantifying risk from climate where knowledge systems are imperfect high dimensional nonlinear models, this is a critical issue. Here using a nontrivial and nonlinear dynamical (NLD) model preferred by climate scientists for inverse problems in climate modeling, we show how Bayesian nonparametric methods, in particular Gaussian Processes (GPs), allow uncertainty quantification and interval estimation in a principled and tractable manner. Further, in many cases, GPs outperform a suite of benchmark point estimation methods as well. Results suggest that this approach to probabilistic learning in hybrid KD models is promising. While the illustrative example is from climate science, the results and insights are generalizable to other NLDs ubiquitous in robotics, biology and economics, among others
