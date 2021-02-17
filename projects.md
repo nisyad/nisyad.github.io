@@ -4,6 +4,20 @@ title: Projects
 description:
 ---
 
+# Gaussian Processes for Uncertainty Quantification and Estimation in Nonlinear Dynamical Systems
+
+![Hybrid ML-Physics Climate Model]("assets/images/hybrid-model-uq.png")
+
+**Authors:** Nishant Yadav and Auroop R. Ganguly
+**Abstract:** Hybrid intelligent systems coupling knowledge-based reasoning with data-driven learning are becoming crucial to prediction and discovery in diverse scientific domains - medical diagnosis, decoding protein structures, fluid dynamics, and climate risk assessment, to name a few. Many of these applications are safety-critical, demanding risk-informed decision making. Thus, incorporating uncertainty within these hybrid knowledge-data (KD) systems is critical. Typical Machine Learning methods, however, are uninformative of uncertainty or do so at tremendous cost. In applications such as quantifying risk from climate where knowledge systems are imperfect high dimensional nonlinear models, this is a critical issue. Here using a nontrivial and nonlinear dynamical (NLD) model preferred by climate scientists for inverse problems in climate modeling, we show how Bayesian nonparametric methods, in particular Gaussian Processes (GPs), allow uncertainty quantification and interval estimation in a principled and tractable manner. Further, in many cases, GPs outperform a suite of benchmark point estimation methods as well. Results suggest that this approach to probabilistic learning in hybrid KD models is promising. While the illustrative example is from climate science, the results and insights are generalizable to other NLDs ubiquitous in robotics, biology and economics, among others
+
+
+
+
+
+
+
+<!--
 # Optical Flow for Intermediate Frame Interpolation of Multispectral Geostationary Satellite Data
 
 
@@ -37,3 +51,4 @@ description:
 **Abstract:** The impacts of climate change are felt by most critical systems, such as infrastructure, ecological systems, and power-plants. However, contemporary Earth System Models (ESM) are run at spatial resolutions too coarse for assessing effects this localized. Local scale projections can be obtained using statistical downscaling, a technique which uses historical climate observations to learn a low-resolution to high-resolution mapping. Depending on statistical modeling choices, downscaled projections have been shown to vary significantly terms of accuracy and reliability. The spatio-temporal nature of the climate system motivates the adaptation of super-resolution image processing techniques to statistical downscaling. In our work, we present DeepSD, a generalized stacked super resolution convolutional neural network (SRCNN) framework for statistical downscaling of climate variables. DeepSD augments SRCNN with multi-scale input channels to maximize predictability in statistical downscaling. We provide a comparison with Bias Correction Spatial Disaggregation as well as three Automated-Statistical Downscaling approaches in downscaling daily precipitation from 1 degree (~100km) to 1/8 degrees (~12.5km) over the Continental United States. Furthermore, a framework using the NASA Earth Exchange (NEX) platform is discussed for downscaling more than 20 ESM models with multiple emission scenarios.<br>
 **Paper:** [https://www.kdd.org/kdd2017/papers/view/deepsd-generating-high-resolution-climate-change-projections-through-single](https://www.kdd.org/kdd2017/papers/view/deepsd-generating-high-resolution-climate-change-projections-through-single)<br>
 **Code:** [https://github.com/tjvandal/deepsd](https://github.com/tjvandal/deepsd)
+-->
